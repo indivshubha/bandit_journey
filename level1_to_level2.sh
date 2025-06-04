@@ -1,8 +1,6 @@
 #!/bin/bash
-# Password for bandit1: 
-#     boJ9jbbUNNfktd78OOpsqOltutMc3MY1
-# Password for bandit2 (found in file named '-'): 
-#     CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+# bandit01 password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+# bandit02 password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 ssh bandit1@bandit.labs.overthewire.org -p 2220
 # Inside SSH:
