@@ -1,6 +1,4 @@
 #!/bin/bash
-# bandit21 password: EeoULMCra2q0dSkYj561DX7s1CpBuOBt
-# bandit22 password: tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
 
 ssh bandit21@bandit.labs.overthewire.org -p 2220
 # Inside SSH:
